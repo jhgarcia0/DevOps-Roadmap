@@ -39,7 +39,7 @@ completo de Git.
 
 - [ ] Trabalhar em um ambiente Linux real, preferencialmente Ubuntu no WSL.
 - [x] Entender usuarios, grupos e permissoes.
-- [ ] Inspecionar e controlar processos.
+- [x] Inspecionar e controlar processos.
 - [ ] Trabalhar com variaveis de ambiente, arquivos de configuracao e logs.
 - [ ] Automatizar inicio, verificacao e encerramento de uma aplicacao.
 
@@ -90,6 +90,7 @@ apos a recriacao dos containers.
 | --- | --- | --- | --- |
 | 2026-11-12 | Nivelamento inicial | Este documento | Iniciar Linux operacional |
 | 2026-11-12 | Permissoes no Linux | [`study/progress/2026-11-12-linux-permissions.md`](study/progress/2026-11-12-linux-permissions.md) | Estudar processos e sinais |
+| 2026-11-12 | Processos e sinais | [`study/progress/2026-11-12-linux-processes.md`](study/progress/2026-11-12-linux-processes.md) | Estudar variaveis de ambiente e codigos de saida em scripts |
 
 ## Proxima atividade
 
