@@ -38,7 +38,7 @@ completo de Git.
 ### Fase 1: Linux operacional
 
 - [ ] Trabalhar em um ambiente Linux real, preferencialmente Ubuntu no WSL.
-- [ ] Entender usuarios, grupos e permissoes.
+- [x] Entender usuarios, grupos e permissoes.
 - [ ] Inspecionar e controlar processos.
 - [ ] Trabalhar com variaveis de ambiente, arquivos de configuracao e logs.
 - [ ] Automatizar inicio, verificacao e encerramento de uma aplicacao.
@@ -89,6 +89,7 @@ apos a recriacao dos containers.
 | Data | Atividade | Evidencia | Dificuldades/proximo passo |
 | --- | --- | --- | --- |
 | 2026-11-12 | Nivelamento inicial | Este documento | Iniciar Linux operacional |
+| 2026-11-12 | Permissoes no Linux | [`study/progress/2026-11-12-linux-permissions.md`](study/progress/2026-11-12-linux-permissions.md) | Estudar processos e sinais |
 
 ## Proxima atividade
 
