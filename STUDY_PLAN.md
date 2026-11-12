@@ -91,6 +91,7 @@ apos a recriacao dos containers.
 | 2026-11-12 | Nivelamento inicial | Este documento | Iniciar Linux operacional |
 | 2026-11-12 | Permissoes no Linux | [`study/progress/2026-11-12-linux-permissions.md`](study/progress/2026-11-12-linux-permissions.md) | Estudar processos e sinais |
 | 2026-11-12 | Processos e sinais | [`study/progress/2026-11-12-linux-processes.md`](study/progress/2026-11-12-linux-processes.md) | Estudar variaveis de ambiente e codigos de saida em scripts |
+| 2026-11-12 | Variaveis de ambiente | [`study/progress/2026-11-12-environment-variables.md`](study/progress/2026-11-12-environment-variables.md) | Aplicar configuracao e codigos de saida em um script |
 
 ## Proxima atividade
 
