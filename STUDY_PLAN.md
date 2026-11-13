@@ -92,6 +92,7 @@ apos a recriacao dos containers.
 | 2026-11-12 | Permissoes no Linux | [`study/progress/2026-11-12-linux-permissions.md`](study/progress/2026-11-12-linux-permissions.md) | Estudar processos e sinais |
 | 2026-11-12 | Processos e sinais | [`study/progress/2026-11-12-linux-processes.md`](study/progress/2026-11-12-linux-processes.md) | Estudar variaveis de ambiente e codigos de saida em scripts |
 | 2026-11-12 | Variaveis de ambiente | [`study/progress/2026-11-12-environment-variables.md`](study/progress/2026-11-12-environment-variables.md) | Aplicar configuracao e codigos de saida em um script |
+| 2026-11-13 | Configuracao e codigos de saida | [`study/progress/2026-11-13-exit-codes.md`](study/progress/2026-11-13-exit-codes.md) | Estudar logs e redirecionamento |
 
 ## Proxima atividade
 
